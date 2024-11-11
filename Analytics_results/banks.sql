@@ -84,7 +84,6 @@ ORDER BY
 select country,`Project Name`,`Effective Date`,`Due to IDA` from cleaned_dataset
 order by `due to ida` desc limit 10;
 
-# Task 11: Identifying Top 5 Countries with Highest Repaid to Principal Ratio
 
 
 
